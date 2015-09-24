@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://bencentra.com/jekyll/2015/04/18/welcome-to-jekyll.html</loc>
+    <loc>/jekyll/2015/04/18/welcome-to-jekyll.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy6.html</loc>
+    <loc>/dummy/2015/04/18/dummy6.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy5.html</loc>
+    <loc>/dummy/2015/04/18/dummy5.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy4.html</loc>
+    <loc>/dummy/2015/04/18/dummy4.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy3.html</loc>
+    <loc>/dummy/2015/04/18/dummy3.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy2.html</loc>
+    <loc>/dummy/2015/04/18/dummy2.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/dummy/2015/04/18/dummy.html</loc>
+    <loc>/dummy/2015/04/18/dummy.html</loc>
     <lastmod>2015-04-18T16:43:59+08:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com/about.html</loc>
+    <loc>/01_home.html</loc>
   </url>
   <url>
-    <loc>http://bencentra.com/home.html</loc>
+    <loc>/about.html</loc>
   </url>
   <url>
-    <loc>http://bencentra.com/</loc>
+    <loc>/carcer.html</loc>
+  </url>
+  <url>
+    <loc>/contact.html</loc>
+  </url>
+  <url>
+    <loc>/</loc>
+  </url>
+  <url>
+    <loc>/team.html</loc>
   </url>
 </urlset>
