@@ -12,7 +12,7 @@ email: unknown@bcitech.com
 #  A simple yet classy theme for your Jekyll website or blog.
 #baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 #url: "http://bencentra.com" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
+cover: "assets/core.JPG"
 logo: "assets/logo.png"
 
 # Build settings
