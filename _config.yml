@@ -4,8 +4,8 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: 记忆碎片
-subtitle: "在这里填入子标题"
+title: 记忆科技
+#subtitle: "在这里填入子标题"
 email: question@bcitech.com
 #name: Ben Centra
 #description: > 
